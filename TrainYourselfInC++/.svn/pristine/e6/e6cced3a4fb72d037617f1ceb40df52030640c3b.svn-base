@@ -1,0 +1,11 @@
+﻿Build started 7/28/2014 9:29:03 PM.
+     1>Project "E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\TrainYourselfInC++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\\SDL2_mixer-2.0.0\include" /I"E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\\SDL2_ttf-2.0.12\include" /I"E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\\SDL2-2.0.3\include" /I"E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\\SDL2_image-2.0.0\include" /I"E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\\Agar-1.4.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>e:\cpp-gamedevelopment\space--shooter\trainyourselfinc++\trainyourselfinc++\agar-1.4.1\include\agar\core\threads.h(10): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+     1>Done Building Project "E:\Cpp-GameDevelopment\space--shooter\TrainYourselfInC++\TrainYourselfInC++\TrainYourselfInC++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.59

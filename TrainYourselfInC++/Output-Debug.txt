@@ -1,0 +1,35 @@
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\TrainYourselfInC++.exe', Symbols loaded.
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll'
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\SDL2.dll', Binary was not built with debug information.
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\user32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\lpk.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\usp10.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\version.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll'
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\SDL2_image.dll', Binary was not built with debug information.
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\SDL2_ttf.dll', Binary was not built with debug information.
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\libfreetype-6.dll', Binary was not built with debug information.
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\zlib1.dll', Binary was not built with debug information.
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\winsxs\x86_microsoft.vc90.debugcrt_1fc8b3b9a1e18e3b_9.0.21022.8_none_96748342450f6aa2\msvcp90d.dll', Symbols loaded.
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\winsxs\x86_microsoft.vc90.debugcrt_1fc8b3b9a1e18e3b_9.0.21022.8_none_96748342450f6aa2\msvcr90d.dll', Symbols loaded.
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll'
+'TrainYourselfInC++.exe': Loaded 'C:\Windows\SysWOW64\clbcatq.dll'
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\libjpeg-9.dll', Binary was not built with debug information.
+'TrainYourselfInC++.exe': Loaded 'B:\Games\TrainYourselfInC++\Debug\libpng16-16.dll', Binary was not built with debug information.
+The program '[7408] TrainYourselfInC++.exe: Native' has exited with code 3 (0x3).
